@@ -28,6 +28,7 @@ print(data.text)
 #     print(response.json())
 #
 #
+
 # def delete():
 #     response = requests.delete(f'{HOST}/advertisements/1')
 #     print(response.json())

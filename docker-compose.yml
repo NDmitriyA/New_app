@@ -5,7 +5,7 @@ services:
     image: postgres:latest
     hostname: '127.0.0.1'
     ports:
-      - '5432:5432'
+      - '5431:5432'
     environment:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: 12345
